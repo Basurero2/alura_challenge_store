@@ -8,7 +8,7 @@
 
 
 ## 📝 Propósito del Análisis
-El objetivo principal de este proyecto es fundamentar la decisión de **vender una de las cuatro tiendas de Alura Store**. Esta desinversión tiene como fin reinvertir el capital obtenido en proyectos con mayor potencial de crecimiento. 
+El objetivo principal de este proyecto es fundamentar la decisión de **vender una de las cuatro tiendas**. Esta desinversión tiene como fin reinvertir el capital obtenido en proyectos con mayor potencial de crecimiento. 
 
 Para lograrlo, se evaluó el desempeño operativo mediante un sistema de puntuación basado en métricas clave como ingresos totales, costos de envío y satisfacción del cliente.
 
